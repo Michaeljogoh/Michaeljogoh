@@ -4,6 +4,7 @@
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
+97b6ea5-ec16-4669-8f36-bedd1e2ee0c5.jpg)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
 
@@ -23,7 +24,7 @@
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/jogoh-michael-257778222" target="blank"><img align="center" src="  https://www.google.com/imgres?imgurl=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2016%2F06%2Flinkedin-logo.png&imgrefurl=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&tbnid=K-ZL1poKSdOy6M&vet=12ahUKEwiRitalyqX5AhUCjxoKHbmaD2IQMygJegUIARD4AQ..i&docid=f8g3M5w3SzCe_M&w=1024&h=1024&q=linkedin%20icon&ved=2ahUKEwiRitalyqX5AhUCjxoKHbmaD2IQMygJegUIARD4AQ  " alt="codebucks27" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jogoh-michael-257778222" target="blank"><img align="center" src="![linkedin-logo-editorial-illustrative-white-background-linkedin-logo-editorial-illustrative-white-background-eps-download-208329501](https://user-images.githubusercontent.com/87239482/182143262-9 " alt="Linkedin" height="30" width="40" /></a>
 
 <a href="https://twitter.com/MJogoh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 </p>
