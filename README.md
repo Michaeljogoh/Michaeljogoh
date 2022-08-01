@@ -41,7 +41,6 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
 
 </br>
-</br>
 
 
 ### Version Controlling
@@ -58,30 +57,5 @@
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
 
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&locale=en" alt="codebucks27" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&" alt="codebucks27" /></p> -->
-</br>
-
-<h3 align="left">▶ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br><br>
-
-<!-- ### Hi there 👋
 
 
-<!--
-**Michaeljogoh/Michaeljogoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
