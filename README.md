@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm CodeBucks</h1>
-<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
+<h1 align="center">Hi 👋, I'm Michael Jogoh</h1>
+<h3 align="center">A passionate Softeware developer. Love to build beautiful websites with latest tech available😄
 </h3>
 
 </br>
