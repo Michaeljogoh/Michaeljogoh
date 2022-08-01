@@ -9,13 +9,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
-- 🔭 I’m currently working on [CodeBucks](https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA) (My YouTube Channel)
+- 🔭 I’m currently working on [Personal Projects]
 
-- 📝 I regularly write articles on [https://dev.to/codebucks](https://dev.to/codebucks) 
+- 💬 Ask me about **ExpressJS, ReactJS, REST, Databases**
 
-- 💬 Ask me about **React, Redux, GraphQl, NextJS**
-
-- 📫 How to reach me **codebucks27@gmail.com**
+- 📫 How to reach me **michaeljogoh@gmail.com**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -24,14 +22,10 @@
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/codebucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>
-  <a href="https://instagram.com/code.bucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://codepen.io/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://twitter.com/code_bucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-<a href="https://fb.com/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
 
+  <a href="https://www.linkedin.com/in/jogoh-michael-257778222" target="blank"><img align="center" src="  https://www.google.com/imgres?imgurl=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2016%2F06%2Flinkedin-logo.png&imgrefurl=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&tbnid=K-ZL1poKSdOy6M&vet=12ahUKEwiRitalyqX5AhUCjxoKHbmaD2IQMygJegUIARD4AQ..i&docid=f8g3M5w3SzCe_M&w=1024&h=1024&q=linkedin%20icon&ved=2ahUKEwiRitalyqX5AhUCjxoKHbmaD2IQMygJegUIARD4AQ  " alt="codebucks27" height="30" width="40" /></a>
 
+<a href="https://twitter.com/MJogoh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
 </p>
 </br>
 
