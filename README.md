@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal Projects]
 
-- 💬 Ask me about **ExpressJS, ReactJS, REST, Databases**
+- 💬 Ask me about **NodeJS, ReactJS**
 
 - 📫 How to reach me **michaeljogoh@gmail.com**
 
