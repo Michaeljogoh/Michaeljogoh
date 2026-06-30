@@ -1,61 +1,140 @@
-<h1 align="center">Hi 👋, I'm Michael Jogoh</h1>
-<h3 align="center">A passionate Softeware developer. Love to build beautiful websites with latest tech available😄
-</h3>
+<div align="center">
 
-</br>
+# Michael Jogoh
 
+### Full Stack Engineer · Backend Engineer 
 
-- 🔭 I’m currently working on [Personal Projects]
+Building production systems with **TypeScript**, **React**, **Node.js**, **Python** and **PostgreSQL** — from multi-tenant SaaS to AI-powered automation.
 
-- 💬 Ask me about **NodeJS, ReactJS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-michaeljogoh.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://michaeljogoh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-jogoh-257778222)
+[![Email](https://img.shields.io/badge/Email-michaeljogoh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaeljogoh@gmail.com)
 
-- 📫 How to reach me **michaeljogoh@gmail.com**
+📍 Lagos, Nigeria · 🌐 Open to remote & contract roles worldwide
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</br>
+</div>
 
-<h3 align="left">▶ Connect with me:</h3>
-<p align="left">
+---
 
-  <a href="https://www.linkedin.com/in/jogoh-michael-257778222" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " alt="Linkedin" height="30" width="40" /></a>
+## About Me
 
-<a href="https://twitter.com/MJogoh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-</p>
-</br>
+I'm a **Full Stack Engineer** with 5+ years of experience shipping web applications for startups and enterprises.
 
-<h3 align="left">▶ Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
+I specialize in end-to-end product development — architecting backends, building responsive frontends, integrating payments and AI, and deploying with **Docker**, **Kubernetes**, and **CI/CD**. I care about clean code, measurable impact, and systems that scale.
 
-<br>
-<br>
+---
 
-### Hosting
+## What I Work With
 
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Digital_Ocean-0080FF?&logo=DigitalOcean&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-</br>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat-square)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Version Controlling
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a>
+### AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+Paystack · Postmark · Twilio · Google Maps · REST · WebSockets
 
-### Software and Other Tools
+---
 
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+## Featured Projects
 
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| **[Neuraflow](https://neura-flow.vercel.app)** | Visual workflow automation with drag-and-drop editor and background job scheduling | Next.js, tRPC, Prisma, PostgreSQL, Inngest | [Demo →](https://neura-flow.vercel.app) |
+| **[LogIQ-WMS (ShipCore)](https://shipcore.vercel.app)** | 3PL warehouse management with Claude-powered natural language inventory queries | Next.js, Prisma, PostgreSQL, Anthropic Claude | [Demo →](https://shipcore.vercel.app) |
+| **[ShiftSync Platform](https://shiftsync-platform-c2uk.onrender.com)** | Real-time shift scheduling with RBAC and live Socket.IO updates | NestJS, TypeORM, PostgreSQL, Next.js | [Demo →](https://shiftsync-platform-c2uk.onrender.com) |
+| **[Invoice Reconciliation API](https://invoice-recon.vercel.app)** | Multi-tenant financial reconciliation with GraphQL and row-level security | NestJS, GraphQL, Drizzle, Python, PostgreSQL | [Demo →](https://invoice-recon.vercel.app) |
+| **Aplika — AI Job Tracker** | AI-powered job tracking: resume tailoring, auto-apply, and follow-up automation | Next.js, Node.js, MongoDB, Puppeteer, OpenAI | — |
 
+---
 
+## Professional Highlights
+
+- 🏫 **Luceo Education Suite** — Architected multi-tenant SMS for 50+ schools with NestJS, React, PostgreSQL, RBAC, Paystack & Postmark
+- 🤖 **RocketDevs** — Built AI job automation platform (Puppeteer + OpenAI) that cut manual applications by **80%**
+- 🚗 **Bonshare** — Developed Uber-style ride-matching APIs with Google Maps & Twilio (sub-200ms response times)
+- ⚙️ **EGA Automation** — CI/CD with GitHub Actions, Jenkins, Docker & Kubernetes for daily production releases
+- 🧠 **Revelo** — AI trainer: 200+ PR reviews & 50+ coding examples for LLM training datasets
+
+<details>
+<summary><strong>Full work history</strong></summary>
+
+| Role | Company | Period |
+|------|---------|--------|
+| Full Stack Developer | Luceo Education Suite | Jan 2026 – Present |
+| AI Coding PR Writer / AI Trainer | Revelo | Dec 2025 – Feb 2026 |
+| Full Stack Engineer | RocketDevs | Jul 2024 – Nov 2025 |
+| Full Stack Developer | Elonatech Limited | Jul 2023 – May 2024 |
+| DevOps Engineer | EGA Automation | May 2023 – Sep 2023 |
+| Node.js Backend Developer | Bonshare | Jan 2023 – Apr 2023 |
+| Junior Software Engineer | RobotsLimited | Dec 2021 – Dec 2022 |
+| Backend Developer Intern | The Code Center | Jan 2021 – Jul 2021 |
+
+</details>
+
+---
+
+## Certifications
+
+Google AI Essentials · CS302 Software Engineering (Saylor Academy) · Docker (University of Helsinki) · Linux Essentials (Cisco) · JavaScript DSA (freeCodeCamp) · Node.js (TestDome) · HackerRank: Go Advanced, React, JavaScript
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaeljogoh&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeljogoh&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm open to **full-time**, **contract**, and **collaboration** opportunities — especially in full-stack engineering, AI integrations, and SaaS product development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michael--jogoh-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/michael-jogoh-257778222)
+[![GitHub](https://img.shields.io/badge/GitHub-Michaeljogoh-181717?style=flat-square&logo=github)](https://github.com/Michaeljogoh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-michaeljogoh.vercel.app-000000?style=flat-square&logo=vercel)](https://michaeljogoh.vercel.app)
+[![Email](https://img.shields.io/badge/Email-michaeljogoh@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:michaeljogoh@gmail.com)
+
+---
+
+<div align="center">
+
+*"Ship code that solves real problems — then measure the impact."*
+
+</div>
