@@ -108,20 +108,6 @@ Paystack · Postmark · Twilio · Google Maps · REST · WebSockets
 
 Google AI Essentials · CS302 Software Engineering (Saylor Academy) · Docker (University of Helsinki) · Linux Essentials (Cisco) · JavaScript DSA (freeCodeCamp) · Node.js (TestDome) · HackerRank: Go Advanced, React, JavaScript
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaeljogoh&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeljogoh&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm open to **full-time**, **contract**, and **collaboration** opportunities — especially in full-stack engineering, AI integrations, and SaaS product development.
